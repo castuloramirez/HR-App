@@ -26,7 +26,7 @@
 * Update the information pertaining to their profile
 
 ## Running hr-app locally
-HR App is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
+HR App is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build and run using maven:
 
 
 ```
@@ -55,7 +55,6 @@ HR-App\hr-web> mvn spring-boot:run
   '  |____| .__|_| |_|_| |_\__, | / / / /
  =========|_|==============|___/=/_/_/_/
  :: Spring Boot ::        (v2.2.4.RELEASE)
-
 
 ```
 
