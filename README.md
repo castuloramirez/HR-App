@@ -25,11 +25,6 @@
 * Search for a job
 * Update the information pertaining to their profile
 
-## Project Management
-I used Trello for project management.
-    
-<img width="1042" alt="trello-ss" src="https://user-images.githubusercontent.com/53643180/77248923-65d61800-6c4e-11ea-88a1-a7a3725f747d.png">
-
 ## Running hr-app locally
 HR App is a [Spring Boot](https://spring.io/guides/gs/spring-boot) application built using [Maven](https://spring.io/guides/gs/maven/). You can build a jar file and run it from the command line:
 
